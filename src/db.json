@@ -1,0 +1,52 @@
+{
+  "lessons": [
+    {
+      "id": 0,
+      "name": "lesson 1",
+      "duration": 45,
+      "category": "test",
+      "currentTime": 30,
+      "active": true
+    },
+    {
+      "id": 1,
+      "name": "lesson 2",
+      "duration": 45,
+      "category": "programming",
+      "currentTime": 0,
+      "active": false
+    },
+    {
+      "id": 2,
+      "name": "lesson 3",
+      "duration": 45,
+      "category": "sport",
+      "currentTime": 0,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "lesson 4",
+      "duration": 45,
+      "category": "cleaning",
+      "currentTime": 0,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "lesson 5",
+      "duration": 45,
+      "category": "cooking",
+      "currentTime": 0,
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "lesson 6",
+      "duration": 45,
+      "category": "test",
+      "currentTime": 0,
+      "active": false
+    }
+  ]
+}
