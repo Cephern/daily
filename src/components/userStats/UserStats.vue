@@ -3,19 +3,19 @@
 </script>
 
 <template>
-    <section class="Daily">
+    <section class="UserStats">
         <div class="title">
-            <h2>Daily</h2>
+            <h2>User Stats</h2>
         </div>
         <div class="sectionInner">
-            Daily
+            User
         </div>
     </section>
 </template>
 
-<style lang="scss" scoped>
-.Daily {
-    grid-column: 3/5;
-    grid-row: 2/3;
+<style scoped>
+.UserStats {
+    grid-column: 4/5;
+    grid-row: 1/2;
 }
 </style>
